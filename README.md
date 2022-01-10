@@ -3,7 +3,7 @@
 
 This project provides an integrated system for assisting brain disease patients with moderate technology and employment of simple sensors.
 
-It is divided to three modules, each targetting a specific symptom among brain diseases:
+It is divided to three modules, each targetting a specific symptom commonly among brain diseases:
 1) Sialorrhoea Assistive Subsystem (Raindrop Water Sensor Module)
 2) Hand-Vibration Assistive Subsystem (SW-420 Vibration Sensor Module)
 3) Hearing Weakness Assistive Subsystem (Sound Detection Sensor Module)
