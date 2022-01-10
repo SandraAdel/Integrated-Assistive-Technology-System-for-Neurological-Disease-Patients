@@ -1,7 +1,8 @@
 # Integrated-Assistive-Technology-System-for-Brain-Disease-Patients
-# Embedded Systems in Medical Equipment Course Project
+## Embedded Systems in Medical Equipment Course Project
 
 This project provides an integrated system for assosting brain disease patients with moderate technology and employment of simple sensors.
+
 It is divided to three modules, each targetting a specific symptom among brain diseases:
 1) Sialorrhoea Assistive Subsystem (Raindrop Water Sensor Module)
 2) Hand-Vibration Assistive Subsystem (SW-420 Vibration Sensor Module)
