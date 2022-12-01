@@ -1,4 +1,4 @@
-# Integrated-Assistive-Technology-System-for-Brain-Disease-Patients
+# Integrated-Assistive-Technology-System-for-Neurological-Disease-Patients
 ## Embedded Systems in Medical Equipment Course Project
 
 This project provides an integrated system for assisting brain disease patients with moderate technology and employment of simple sensors.
